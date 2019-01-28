@@ -6,6 +6,8 @@ For information on how to use this repository, see [.NET Core](https://docs.micr
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
 
+Changing this is sure to fix all the problems. :)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a

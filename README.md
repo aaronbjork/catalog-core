@@ -6,7 +6,7 @@ For information on how to use this repository, see [.NET Core](https://docs.micr
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
 
-This is the markdown fix we've been waiting for.
+This is the markdown fix we've been waiting for. It's very important this is right!
 
 # Contributing
 

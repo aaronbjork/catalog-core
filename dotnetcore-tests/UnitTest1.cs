@@ -85,5 +85,31 @@ namespace dotnetcore_tests
           // Assert
           Assert.AreEqual("Your contact page.", result.ViewData["Message"]);
         }                                
+
+        [TestMethod]
+        public void Contact5()
+        {
+          // Arrange
+          HomeController controller = new HomeController();
+
+          // Act
+          ViewResult result = controller.Contact() as ViewResult;
+
+          // Assert
+          Assert.AreEqual("Your contact page.", result.ViewData["Message"]);
+        }  
+
+        [TestMethod]
+        public void Contact6()
+        {
+          // Arrange
+          HomeController controller = new HomeController();
+
+          // Act
+          ViewResult result = controller.Contact() as ViewResult;
+
+          // Assert
+          Assert.AreEqual("Your contact page!", result.ViewData["Message"]);
+        }  
     }
 }

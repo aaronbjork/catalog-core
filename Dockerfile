@@ -1,4 +1,4 @@
-# This Dockerfile demonstrates how to use Docker to create an image
+# This Dockerfile demonstrates how to use Docker to create an 
 # after a build is produced and tested by Azure Pipelines
 # See http://docs.microsoft.com/azure/devops/pipelines/languages/docker for more information
 

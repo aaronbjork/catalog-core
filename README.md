@@ -8,7 +8,7 @@ For information on how to use this repository, see [.NET Core](https://docs.micr
 
 
 
-# Providing fedback
+# Providing feedback
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us

@@ -1,6 +1,6 @@
 # Responsive Catalog 2.0
 
-For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
+For information on HOW to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
 |---------|--------------|
